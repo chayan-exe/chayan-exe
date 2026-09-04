@@ -18,4 +18,4 @@ HTML • CSS • JavaScript • Node.js • Express
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="GitHub Snake">
 </p>
 
-> Replace `chayan-exe` with your GitHub username.
+>chayan-exe
