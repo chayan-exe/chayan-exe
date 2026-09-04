@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm Chayan Sarkar
 
 ## 💻 Full Stack Developer
 
@@ -18,4 +18,4 @@ HTML • CSS • JavaScript • Node.js • Express
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="GitHub Snake">
 </p>
 
-> Replace `YOUR_USERNAME` with your GitHub username.
+> Replace `chayan-exe` with your GitHub username.
