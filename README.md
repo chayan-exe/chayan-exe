@@ -14,6 +14,9 @@ HTML • CSS • JavaScript • Node.js • Express
 
 ## 🐍 GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/chayan-exe/chayan-exe/output/github-snake.svg" alt="GitHub Snake">
+  <img
+    src="https://raw.githubusercontent.com/chayan-exe/chayan-exe/output/github-snake.svg"
+    alt="GitHub Snake"
+  />
 
 >chayan-exe
